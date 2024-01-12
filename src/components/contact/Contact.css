@@ -1,0 +1,17 @@
+.cont{
+   position: relative;
+   top: 6rem;
+   right: 30rem;
+   cursor: pointer;
+}
+.email{
+    position: relative;
+     cursor: pointer;
+    
+}
+
+.contact-lorem{
+    position: relative;
+    top: 5rem;
+  
+}

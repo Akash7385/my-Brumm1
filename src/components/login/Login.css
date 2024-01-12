@@ -1,0 +1,39 @@
+.buton1 {
+    position: relative;
+    top: 9rem;
+    background-color: #04AA6D;
+    border: none;
+    color: #FFFFFF;
+    padding: 20px;
+    text-align: center;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 25%;
+  }
+  
+  .buton1:after {
+    content: "";
+    background: #f1f1f1;
+    opacity: 0;
+    transition: all 0.8s
+  }
+  
+  .buton1:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+  }
+
+  .new-user{
+    position: relative;
+    top: 10rem;
+  }
+  .form{
+    position: relative;
+    top: 7rem;
+  }
+
+  
